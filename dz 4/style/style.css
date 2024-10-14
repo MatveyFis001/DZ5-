@@ -19,17 +19,17 @@
 }
 nav ul {
     display: flex;
-    justify-content: space-around; /* Розташовує елементи рівномірно */
-    list-style-type: none; /* Видаляє маркери списку */
-    padding: 0; /* Забирає відступи */
+    justify-content: space-around; 
+    list-style-type: none; 
+    padding: 0; 
 }
 
 nav ul li a {
-    text-decoration: none; /* Видаляє підкреслення з посилань */
+    text-decoration: none; 
     padding: 10px;
-    color: #000; /* Чорний колір тексту */
+    color: #000; 
 }
 
 nav ul li a:hover {
-    color: #ff0000; /* Колір при наведенні */
+    color: #ff0000; 
 }
